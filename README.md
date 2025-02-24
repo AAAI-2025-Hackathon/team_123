@@ -5,7 +5,7 @@
 - Team Members: [Chaitanya V](mailto:ed21b018@smail.iitm.ac.in), [Riya Mahesh](mailto:firstname.lastname@exampledomain.com), [Vamsi Krishna](mailto:firstname.lastname@exampledomain.com)
 - [x] All team members agree to abide by the [Hackathon Rules](https://aaai.org/conference/aaai/aaai-25/hackathon/)
 - [x] This AAAI 2025 hackathon entry was created by the team during the period of the hackathon, February 17 – February 24, 2025
-- [x] The entry includes a 2-minute maximum length demo video here: [Link]([[https://your-link.com](https://drive.google.com/drive/folders/1YOc2-y1LznZ1qlPEBtoLCUDmvhCiKoGj?usp=drive_link))]
+- [x] The entry includes a 2-minute maximum length demo video here: [Link](https://drive.google.com/drive/folders/1YOc2-y1LznZ1qlPEBtoLCUDmvhCiKoGj?usp=drive_link))
 - [x] The entry clearly identifies the selected theme in the README and the video.
 
 Selected theme: AI for Social Good
