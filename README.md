@@ -11,7 +11,7 @@
 Selected theme: AI for Social Good
 Title: OutlivAIng_Wars
 Description: 
-n many war‐torn regions—such as Gaza—the human and infrastructural toll is staggering. Recent assessments suggest that in some areas up to **68% of roads are rendered unusable** due to relentless destruction. This widespread damage not only disrupts daily life by severing vital transportation links, but it also creates a profound sense of entrapment. Victims often feel as though they have reached a **dead‐end both externally—in their physical environment—and internally, as hope and pathways to safety diminish.**
+n many war‐torn regions, the human and infrastructural toll is staggering. Recent assessments suggest that in some areas up to **68% of roads are rendered unusable** due to relentless destruction. This widespread damage not only disrupts daily life by severing vital transportation links, but it also creates a profound sense of entrapment. Victims often feel as though they have reached a **dead‐end both externally—in their physical environment—and internally, as hope and pathways to safety diminish.**
 
 Our proposed solution addresses these challenges on two critical fronts:
 
